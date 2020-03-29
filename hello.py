@@ -1,2 +1,2 @@
 print('Hello World!')
-print('Update v1')
+print('Update v2')
